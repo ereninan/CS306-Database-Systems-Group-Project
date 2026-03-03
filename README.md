@@ -1,2 +1,3 @@
 # CS306-Database-Systems-Group-Project
-Gym Management System
+## Gym Management System
+This project involves developing a comprehensive database system to manage the daily operations and administrative activities of a growing gym network. Gym facilities handle a massive amount of information every single day, such as keeping track of their various branches, staff members, registered customers, and physical fitness machines. The main goal of this database is to collect all this fragmented information into one centralized and organized platform. By doing this, the gym management can easily see which trainer works at which branch, where specific equipment is currently located, and which members are actively attending group workouts. This centralized tracking not only makes the daily management of the gym much easier and safer, but it also helps in preventing data loss and scheduling conflicts.
