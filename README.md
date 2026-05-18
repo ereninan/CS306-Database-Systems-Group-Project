@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ereninan/CS306-Database-Systems-Group-Project)
 ![GitHub top language](https://img.shields.io/github/languages/top/ereninan/CS306-Database-Systems-Group-Project)
 
-**Sabancı University - CS306 Database Systems Group Project**
+**Sabancı University - CS306 Database Systems Project**
 
 ## 📖 About the Project
 This project involves developing a comprehensive database system to manage the daily operations and administrative activities of a growing gym network. 
