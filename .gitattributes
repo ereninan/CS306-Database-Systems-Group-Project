@@ -1,0 +1,5 @@
+*.sql linguist-language=SQL
+*.sql linguist-detectable=true
+
+Phase*/* linguist-vendored=false
+phase*/* linguist-vendored=false
